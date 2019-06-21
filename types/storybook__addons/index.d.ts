@@ -4,7 +4,7 @@
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 // TypeScript Version: 3.1
 
-import Channel = require("@storybook/channels");
+import Channel from "@storybook/channels";
 import { RenderFunction, StoryDecorator } from "@storybook/react";
 
 export const mockChannel: Channel;
